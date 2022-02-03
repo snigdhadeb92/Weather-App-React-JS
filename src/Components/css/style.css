@@ -1,0 +1,16 @@
+*{
+  background-color: aliceblue;
+}
+.info{
+    font-family: 'Atma', cursive;
+}
+.body{
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 22px;
+  margin: 199px 50px 5px 100px;
+  padding: 25px 50px 75px 465px;
+}
+.box{
+  
+}
